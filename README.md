@@ -49,7 +49,7 @@
 3. **Run the Program**:
    Run the program from the terminal using:
    ```bash
-   python SpellCheckerTranslator.py
+   python3 app.py
    ```
 
 ## Usage
