@@ -1,6 +1,5 @@
 
 
-```markdown
 # SpellChecker & Translator
 
 `SpellChecker & Translator` is a comprehensive tool that allows users to check the spelling of words in a sentence or file, retrieve word definitions, and get suggestions for misspelled words. It utilizes a combination of a word dictionary (`EnglishWords.txt`) for spell checking and a word definition database (`data.json`) for word meanings. This interactive tool is built with a user-friendly interface, making it accessible for a variety of tasks.
